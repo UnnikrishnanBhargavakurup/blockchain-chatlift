@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "description": "Disaster management using social media AI bots.",
   "scripts": {
-    "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/botlift.bna",
+    "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/botlift.bna"
   },
   "keywords": [
     "composer",
